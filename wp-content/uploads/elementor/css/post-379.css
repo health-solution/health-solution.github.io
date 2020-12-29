@@ -1,0 +1,87 @@
+.elementor-379 .elementor-element.elementor-element-d1cbc80:not(.elementor-motion-effects-element-type-background), .elementor-379 .elementor-element.elementor-element-d1cbc80 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("/wp-content/uploads/20201125925.jpg");background-position:center center;background-size:cover;}.elementor-379 .elementor-element.elementor-element-d1cbc80{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:50px 50px 50px 50px;}.elementor-379 .elementor-element.elementor-element-d1cbc80 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-379 .elementor-element.elementor-element-b778946 .elementor-icon-list-icon i{color:#FFFFFF;font-size:14px;}.elementor-379 .elementor-element.elementor-element-b778946 .elementor-icon-list-icon svg{fill:#FFFFFF;width:14px;}.elementor-379 .elementor-element.elementor-element-b778946 .elementor-icon-list-icon{width:14px;}.elementor-379 .elementor-element.elementor-element-b778946 .elementor-icon-list-text, .elementor-379 .elementor-element.elementor-element-b778946 .elementor-icon-list-text a{color:#FFFFFF;}.elementor-379 .elementor-element.elementor-element-b778946 .elementor-icon-list-item{font-family:"puhui", "Helvetica Neue",sans-serif;font-size:18px;font-weight:400;}.elementor-379 .elementor-element.elementor-element-fd92181 .elementor-heading-title{color:#FFFFFF;font-family:"puhui", "Helvetica Neue",sans-serif;font-size:24px;font-weight:600;}.elementor-379 .elementor-element.elementor-element-ccf6380{--grid-side-margin:5px;--grid-column-gap:5px;--grid-row-gap:10px;--grid-bottom-margin:10px;}.elementor-379 .elementor-element.elementor-element-ccf6380 .elementor-share-btn{font-size:calc(0.65px * 10);}.elementor-379 .elementor-element.elementor-element-ccf6380.elementor-share-buttons--skin-flat .elementor-share-btn,
+					 .elementor-379 .elementor-element.elementor-element-ccf6380.elementor-share-buttons--skin-gradient .elementor-share-btn,
+					 .elementor-379 .elementor-element.elementor-element-ccf6380.elementor-share-buttons--skin-boxed .elementor-share-btn .elementor-share-btn__icon,
+					 .elementor-379 .elementor-element.elementor-element-ccf6380.elementor-share-buttons--skin-minimal .elementor-share-btn .elementor-share-btn__icon{background-color:#5B5B5BA1;}.elementor-379 .elementor-element.elementor-element-ccf6380.elementor-share-buttons--skin-framed .elementor-share-btn,
+					 .elementor-379 .elementor-element.elementor-element-ccf6380.elementor-share-buttons--skin-minimal .elementor-share-btn,
+					 .elementor-379 .elementor-element.elementor-element-ccf6380.elementor-share-buttons--skin-boxed .elementor-share-btn{color:#5B5B5BA1;border-color:#5B5B5BA1;}.elementor-379 .elementor-element.elementor-element-ccf6380.elementor-share-buttons--skin-flat .elementor-share-btn__icon,
+					 .elementor-379 .elementor-element.elementor-element-ccf6380.elementor-share-buttons--skin-flat .elementor-share-btn__text,
+					 .elementor-379 .elementor-element.elementor-element-ccf6380.elementor-share-buttons--skin-gradient .elementor-share-btn__icon,
+					 .elementor-379 .elementor-element.elementor-element-ccf6380.elementor-share-buttons--skin-gradient .elementor-share-btn__text,
+					 .elementor-379 .elementor-element.elementor-element-ccf6380.elementor-share-buttons--skin-boxed .elementor-share-btn__icon,
+					 .elementor-379 .elementor-element.elementor-element-ccf6380.elementor-share-buttons--skin-minimal .elementor-share-btn__icon{color:#FFFFFF;}.elementor-379 .elementor-element.elementor-element-ccf6380.elementor-share-buttons--skin-flat .elementor-share-btn:hover,
+					 .elementor-379 .elementor-element.elementor-element-ccf6380.elementor-share-buttons--skin-gradient .elementor-share-btn:hover{background-color:var( --e-global-color-accent );}.elementor-379 .elementor-element.elementor-element-ccf6380.elementor-share-buttons--skin-framed .elementor-share-btn:hover,
+					 .elementor-379 .elementor-element.elementor-element-ccf6380.elementor-share-buttons--skin-minimal .elementor-share-btn:hover,
+					 .elementor-379 .elementor-element.elementor-element-ccf6380.elementor-share-buttons--skin-boxed .elementor-share-btn:hover{color:var( --e-global-color-accent );border-color:var( --e-global-color-accent );}.elementor-379 .elementor-element.elementor-element-ccf6380.elementor-share-buttons--skin-boxed .elementor-share-btn:hover .elementor-share-btn__icon,
+					 .elementor-379 .elementor-element.elementor-element-ccf6380.elementor-share-buttons--skin-minimal .elementor-share-btn:hover .elementor-share-btn__icon{background-color:var( --e-global-color-accent );}.elementor-379 .elementor-element.elementor-element-6d88254{padding:50px 50px 50px 50px;}.elementor-379 .elementor-element.elementor-element-28cadb4{font-family:"puhui", "Helvetica Neue",sans-serif;font-size:16px;font-weight:400;}@media(max-width:1024px){ .elementor-379 .elementor-element.elementor-element-ccf6380{--grid-side-margin:5px;--grid-column-gap:5px;--grid-row-gap:10px;--grid-bottom-margin:10px;}}@media(max-width:767px){.elementor-379 .elementor-element.elementor-element-d1cbc80{padding:10px 10px 10px 10px;} .elementor-379 .elementor-element.elementor-element-ccf6380{--grid-side-margin:5px;--grid-column-gap:5px;--grid-row-gap:10px;--grid-bottom-margin:10px;}.elementor-379 .elementor-element.elementor-element-6d88254{padding:10px 10px 10px 10px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'puhui';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('//at.alicdn.com/t/webfont_swqx7oltsz8.eot');
+	src: url('//at.alicdn.com/t/webfont_swqx7oltsz8.eot?#iefix') format('embedded-opentype'),
+		url('//at.alicdn.com/t/webfont_swqx7oltsz8.woff2') format('woff2'),
+		url('//at.alicdn.com/t/webfont_swqx7oltsz8.woff') format('woff'),
+		url('//at.alicdn.com/t/webfont_swqx7oltsz8.ttf') format('truetype'),
+		url('//at.alicdn.com/t/webfont_swqx7oltsz8.svg#puhui') format('svg');
+}
+@font-face {
+	font-family: 'puhui';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('//at.alicdn.com/t/webfont_nriwzp470lo.eot');
+	src: url('//at.alicdn.com/t/webfont_nriwzp470lo.eot?#iefix') format('embedded-opentype'),
+		url('//at.alicdn.com/t/webfont_nriwzp470lo.woff2') format('woff2'),
+		url('//at.alicdn.com/t/webfont_nriwzp470lo.woff') format('woff'),
+		url('//at.alicdn.com/t/webfont_nriwzp470lo.ttf') format('truetype'),
+		url('//at.alicdn.com/t/webfont_nriwzp470lo.svg#puhui') format('svg');
+}
+@font-face {
+	font-family: 'puhui';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('//at.alicdn.com/t/webfont_nriwzp470lo.eot');
+	src: url('//at.alicdn.com/t/webfont_nriwzp470lo.eot?#iefix') format('embedded-opentype'),
+		url('//at.alicdn.com/t/webfont_nriwzp470lo.woff2') format('woff2'),
+		url('//at.alicdn.com/t/webfont_nriwzp470lo.woff') format('woff'),
+		url('//at.alicdn.com/t/webfont_nriwzp470lo.ttf') format('truetype'),
+		url('//at.alicdn.com/t/webfont_nriwzp470lo.svg#puhui') format('svg');
+}
+@font-face {
+	font-family: 'puhui';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('//at.alicdn.com/t/webfont_ez018vvds0n.eot');
+	src: url('//at.alicdn.com/t/webfont_ez018vvds0n.eot?#iefix') format('embedded-opentype'),
+		url('//at.alicdn.com/t/webfont_ez018vvds0n.woff2') format('woff2'),
+		url('//at.alicdn.com/t/webfont_ez018vvds0n.woff') format('woff'),
+		url('//at.alicdn.com/t/webfont_ez018vvds0n.ttf') format('truetype'),
+		url('//at.alicdn.com/t/webfont_ez018vvds0n.svg#puhui') format('svg');
+}
+@font-face {
+	font-family: 'puhui';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('//at.alicdn.com/t/webfont_nxzjx3kdkp.eot');
+	src: url('//at.alicdn.com/t/webfont_nxzjx3kdkp.eot?#iefix') format('embedded-opentype'),
+		url('//at.alicdn.com/t/webfont_nxzjx3kdkp.woff2') format('woff2'),
+		url('//at.alicdn.com/t/webfont_nxzjx3kdkp.woff') format('woff'),
+		url('//at.alicdn.com/t/webfont_nxzjx3kdkp.ttf') format('truetype'),
+		url('//at.alicdn.com/t/webfont_nxzjx3kdkp.svg#puhui') format('svg');
+}
+@font-face {
+	font-family: 'puhui';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('//at.alicdn.com/t/webfont_3sktbtk2373.eot');
+	src: url('//at.alicdn.com/t/webfont_3sktbtk2373.eot?#iefix') format('embedded-opentype'),
+		url('//at.alicdn.com/t/webfont_3sktbtk2373.woff2') format('woff2'),
+		url('//at.alicdn.com/t/webfont_3sktbtk2373.woff') format('woff'),
+		url('//at.alicdn.com/t/webfont_3sktbtk2373.ttf') format('truetype'),
+		url('//at.alicdn.com/t/webfont_3sktbtk2373.svg#puhui') format('svg');
+}
+/* End Custom Fonts CSS */
